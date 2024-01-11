@@ -33,10 +33,10 @@ public class Beak1253 {
                     break;//하나라도 나오면 while 문을 빠져 나가기
                 }else if(arr[i] < sum){
                     max--;
-                    if(max==min){
-                        min++;
-                        max=i-1;
-                    }
+                }else{ //기준보다 sum이 더 작을 때 => min일 때 더해서 기준이 되는 것은 없음
+                    min++;
+                    max=i-1;
+                    if(min==i) break;
                 }
             }
         }
