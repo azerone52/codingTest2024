@@ -30,11 +30,13 @@ public class Beak1253 {
                 long sum = arr[min]+arr[max];
                 if(arr[i] == sum){
                     count++;
-                    break;
+                    break;//하나라도 나오면 while 문을 빠져 나가기
                 }else if(arr[i] < sum){
                     max--;
-                }else{
-                    min++;
+                    if(max==min){
+                        min++;
+                        max=i-1;
+                    }
                 }
             }
         }
