@@ -1,7 +1,7 @@
 package BeakJoon;
 import java.util.Scanner;
 
-public class Beak2018TowPointer {
+public class Beak2018TwoPointer {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

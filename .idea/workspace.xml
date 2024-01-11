@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ba1f476-7823-4a9d-8671-3db16558b0d2" name="Changes" comment="first commit">
+    <list default="true" id="8ba1f476-7823-4a9d-8671-3db16558b0d2" name="Changes" comment="Beak2018">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BeakJoon/Beak2018TowPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeakJoon/Beak2018TowPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeakJoon/Beak2018TowPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeakJoon/Beak2018TwoPointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,33 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Beak2018TowPointer">
+  <component name="RunManager" selected="Application.Beak1940TwoPointer">
+    <configuration name="Beak1940" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeakJoon.Beak1940" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BeakJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Beak1940TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeakJoon.Beak1940TwoPointer" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BeakJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Beak2018" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BeakJoon.Beak2018" />
       <module name="codingTest" />
@@ -59,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Beak2018TowPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BeakJoon.Beak2018TowPointer" />
+    <configuration name="Beak2018TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeakJoon.Beak2018TwoPointer" />
       <module name="codingTest" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Beak2018TowPointer" />
+        <item itemvalue="Application.Beak1940TwoPointer" />
+        <item itemvalue="Application.Beak1940" />
+        <item itemvalue="Application.Beak2018TwoPointer" />
         <item itemvalue="Application.Beak2018" />
       </list>
     </recent_temporary>
@@ -87,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704935746540</updated>
-      <workItem from="1704935747737" duration="1188000" />
+      <workItem from="1704935747737" duration="9166000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -97,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704935798349</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Beak2018">
+      <option name="closed" value="true" />
+      <created>1704943085387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704943085387</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +152,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Beak2018" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beak2018" />
   </component>
 </project>
