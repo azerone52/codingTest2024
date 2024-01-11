@@ -36,7 +36,7 @@ public class Beak1253 {
                 }else{ //기준보다 sum이 더 작을 때 => min일 때 더해서 기준이 되는 것은 없음
                     min++;
                     max=i-1;
-                    if(min==i) break;
+//                    if(min==i) break;// while문 조건 덕분에 나올 일이 없는 듯
                 }
             }
         }
