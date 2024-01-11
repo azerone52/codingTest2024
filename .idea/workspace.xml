@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ba1f476-7823-4a9d-8671-3db16558b0d2" name="Changes" comment="Beak2018">
+    <list default="true" id="8ba1f476-7823-4a9d-8671-3db16558b0d2" name="Changes" comment="Beak1940">
+      <change afterPath="$PROJECT_DIR$/src/BeakJoon/Beak1253.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BeakJoon/Beak2018TowPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeakJoon/Beak2018TwoPointer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -45,7 +46,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Beak1940TwoPointer">
+  <component name="RunManager" selected="Application.Beak1253">
+    <configuration name="Beak1253" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BeakJoon.Beak1253" />
+      <module name="codingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BeakJoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Beak1940" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BeakJoon.Beak1940" />
       <module name="codingTest" />
@@ -100,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Beak1253" />
         <item itemvalue="Application.Beak1940TwoPointer" />
         <item itemvalue="Application.Beak1940" />
         <item itemvalue="Application.Beak2018TwoPointer" />
@@ -115,7 +130,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704935746540</updated>
-      <workItem from="1704935747737" duration="9166000" />
+      <workItem from="1704935747737" duration="12736000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -133,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704943085387</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Beak1940">
+      <option name="closed" value="true" />
+      <created>1704955652464</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704955652464</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +176,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Beak2018" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beak2018" />
+    <MESSAGE value="Beak1940" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beak1940" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BeakJoon/Beak1253.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
