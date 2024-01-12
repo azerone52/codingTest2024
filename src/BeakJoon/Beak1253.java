@@ -24,7 +24,9 @@ public class Beak1253 {
         int count = 0;
         for(int i=2; i<N; i++){
             int min = 0;
-            int max = N-1;
+            int max = i-1;
+            //최솟값이 음수인 경우에는 최댓값부터 탐색
+            if(arr[min]<0) max=N-1;
 
             while(min<max){
                 long sum = arr[min]+arr[max];
@@ -33,13 +35,13 @@ public class Beak1253 {
                     break;//하나라도 나오면 while 문을 빠져 나가기
                 }else if(arr[i] < sum){
                     max--;
-                }else{ //기준보다 sum이 더 작을 때 => min일 때 더해서 기준이 되는 것은 없음
+                }else{ //기준보다 sum이 더 작을 때 => max 값과 더했는데 기준값보다 작아지면 min 일 때 기준값을 만드는 건 불가능
                     min++;
-                    max=N-1;
-//                    if(min==i) break;// while문 조건 덕분에 나올 일이 없는 듯
+                    if(arr[min]<0) max=N-1;
+                    else max=i-1;
                 }
             }
         }
-        System.out.println("count = " + count);
+        System.out.println(count);
     }
 }
