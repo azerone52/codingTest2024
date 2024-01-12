@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ba1f476-7823-4a9d-8671-3db16558b0d2" name="Changes" comment="Beak1253 2차 시간 초과&#10;two pointer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BeakJoon/Beak1253.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeakJoon/Beak1253.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ba1f476-7823-4a9d-8671-3db16558b0d2" name="Changes" comment="Beak1253 3차 틀림-수정&#10;two pointer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +127,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704935746540</updated>
-      <workItem from="1704935747737" duration="15277000" />
+      <workItem from="1704935747737" duration="15597000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -172,7 +169,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704961897567</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Beak1253 3차 틀림&#10;two pointer">
+      <option name="closed" value="true" />
+      <created>1704962644049</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704962644049</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Beak1253 3차 틀림-수정&#10;two pointer">
+      <option name="closed" value="true" />
+      <created>1704962715633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704962715633</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +208,8 @@
     <MESSAGE value="Beak1940" />
     <MESSAGE value="Beak1253 1차틀림&#10;two pointer" />
     <MESSAGE value="Beak1253 2차 시간 초과&#10;two pointer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Beak1253 2차 시간 초과&#10;two pointer" />
+    <MESSAGE value="Beak1253 3차 틀림&#10;two pointer" />
+    <MESSAGE value="Beak1253 3차 틀림-수정&#10;two pointer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beak1253 3차 틀림-수정&#10;two pointer" />
   </component>
 </project>
